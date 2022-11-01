@@ -1,0 +1,12 @@
+#external{
+    color: brown;
+    letter-spacing: 6px;
+}
+p{
+    color: brown;
+}
+a{
+    font-style: italic;
+    background-color: yellow;
+    color: red;
+}
